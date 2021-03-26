@@ -5,7 +5,7 @@ $_SESSION['msg_error']="";//message d'erreur
 $_SESSION['nom_service']="";//nom de service
 $_SESSION['verif_user']=0;
 $_SESSION['msg_succes']="";//message de succes
-$_SESSION['type']="";//type de lisanga
+$_SESSION['type']="";//type de lisangaaa
 $_SESSION['tour']="";//tour de lisanga
 $_SESSION["ss"]=0;//nombre de tentatives d'authentification restant
 $_SESSION["vt"]="";//message ajouté près de message d'erreur msg_error 
@@ -65,7 +65,7 @@ header('location:mainte.php');
 <!DOCTYPE html>
 <html>
 <head >
-	<title>LISANGA, Investissons positivement!</title>
+	<title>LISANGA, Investissons positivement!!!</title>
 	<meta charset='utf-8'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel='icon' href='images/lisanga1.jpg' type='image/x-icon'/>
