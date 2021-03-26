@@ -136,7 +136,7 @@ echo "".$date_inscrip;
     			<form method="post" action="t_user.php" class="col-sm-5 ">
 
           <div class="alert alert-success"  role="alert">
-  <stong><i>Bienvenu(e)! Merci d'avoir choisi notre plateforme!</i></stong>
+  <stong><i>Bienvenu(e)! Merci d'avoir choisi notre plateforme!!!</i></stong>
 </div>
 
 
